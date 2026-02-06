@@ -9,6 +9,7 @@ F13 & d::Del
 F13 & h::BS
 F13 & e::End
 F13 & a::Home
+F13 & q::^q
 F13 & Space::
 {
     Send "{vkF3sc029}"
